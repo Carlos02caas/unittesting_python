@@ -27,7 +27,7 @@ class AllAssertest(unittest.TestCase):
 
     @unittest.skip("trabajo en progreso, será habilitada despues")
     def test_skip(self):
-        self.assertEqual("Hola","Chao")
+        self.assertEqual("Hola","Hola")
 
     @unittest.skipIf(SERVER == "server_b", "Saltada por no estar en el servidor")
     def test_skip_if(self):
@@ -35,4 +35,4 @@ class AllAssertest(unittest.TestCase):
 
     @unittest.expectedFailure
     def test_expected_failure(self):
-        self.assertEqual(100,100)
+        self.assertEqual(100,90)
