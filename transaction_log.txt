@@ -1,0 +1,25 @@
+Cuenta creada
+Se deposito 100, nuevo balance: 1100
+Cuenta creada
+Se deposito 3000, nuevo balance: 4000
+Cuenta creada
+Se deposito 4500, nuevo balance: 5500
+Cuenta creada
+Se deposito 100, nuevo balance: 1100
+Cuenta creada
+Se deposito 3000, nuevo balance: 4000
+Cuenta creada
+Se deposito 4500, nuevo balance: 5500
+Cuenta creada
+Se deposito 100, nuevo balance: 1100
+Cuenta creada
+Se deposito 3000, nuevo balance: 4000
+Cuenta creada
+Se deposito 4500, nuevo balance: 5500
+Cuenta creada
+Se deposito 100, nuevo balance: 1100
+Cuenta creada
+Se deposito 3000, nuevo balance: 4000
+Cuenta creada
+Se deposito 4500, nuevo balance: 5500
+Cuenta creada
